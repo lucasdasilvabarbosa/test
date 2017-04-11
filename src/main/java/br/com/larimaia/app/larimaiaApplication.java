@@ -12,6 +12,7 @@ import java.util.Set;
 
 /**
  * Created by Lucas on 23/09/2015.
+   comentario para testar o commit 
  */
 @ApplicationPath("/ws")
 public class larimaiaApplication extends Application {
